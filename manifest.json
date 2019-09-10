@@ -1,0 +1,17 @@
+{
+    "name": "Passage AI",
+    "author": {
+      "name": "Passage AI",
+      "email": "accounts@passage.ai",
+      "url": "https://passage.ai"
+    },
+    "location": {
+        "support": {
+        },
+        "chat": {
+        }
+      },
+      "defaultLocale": "en",
+      "marketingOnly": true,
+      "private": false
+  }

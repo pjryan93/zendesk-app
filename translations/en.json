@@ -1,0 +1,16 @@
+{
+    "app": {
+      "support": {
+        "name": "Passage AI",
+        "short_description": "Passage AI enables personable conversational AI interface for your customers.",
+        "long_description": "Passage AI is the leading conversational AI platform to build chatbots and conversational AI interfaces. We use state of the art deep learning and natural language processing technologies to build conversational interfaces that perform at an industry-leading accuracy.\n Your chatbot will automatically respond to messages from your customers by querying your content using our conversational interface building platform. Example use cases with Zendesk integration include (but are not limited to the following):\n* Querying an existing customer service knowledge base in a conversational manner and getting instant responses to frequently asked questions.\n* Receiving automated customer service responses for questions about service outages, technician availability, store hours, etc.\n* Automating Zendesk ticket creation and updating of those tickets.\n* Transferring to a live agent with a seamless handoff.\n\n With our user-friendly platform, you can easily import a knowledge base from Zendesk, to build a conversational interface. You can also tailor your knowledge base bot to a variety of other use cases and workflows.\n To learn more visit [https://passage.ai](https://passage.ai).",
+        "installation_instructions": "**To get started reach out to us at [https://passage.ai/schedule-your-demo/](https://passage.ai/schedule-your-demo/).**"
+      },
+      "chat": {
+        "name": "Passage AI",
+        "short_description": "Passage AI enables personable conversational AI interface for your customers.",
+        "long_description": "Passage AI is the leading conversational AI platform to build chatbots and conversational AI interfaces. We use state of the art deep learning and natural language processing technologies to build conversational interfaces that perform at an industry-leading accuracy.\n Your chatbot will automatically respond to messages from your customers by querying your content using our conversational interface building platform. Example use cases with Zendesk integration include (but are not limited to the following):\n* Querying an existing customer service knowledge base in a conversational manner and getting instant responses to frequently asked questions.\n* Receiving automated customer service responses for questions about service outages, technician availability, store hours, etc.\n* Automating Zendesk ticket creation and updating of those tickets.\n* Transferring to a live agent with a seamless handoff.\n\n With our user-friendly platform, you can easily import a knowledge base from Zendesk, to build a conversational interface. You can also tailor your knowledge base bot to a variety of other use cases and workflows.\n To learn more visit [https://passage.ai](https://passage.ai).",
+        "installation_instructions": "**To get started reach out to us at [https://passage.ai/schedule-your-demo/](https://passage.ai/schedule-your-demo/).**"
+      }
+    }
+  }
